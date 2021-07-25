@@ -1,3 +1,2 @@
-a=2
-b=4
-print('My 1st Assignment')
+a=('List','Dictionary','Integer','Float')
+print('a')
